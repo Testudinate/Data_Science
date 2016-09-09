@@ -1,0 +1,25 @@
+1: Data science
+
+Data science is about understanding systems, whether they be natural systems, like the climate, or man-made systems, 
+like the economy. Scientific experiments have been conducted for centuries, but recent advances in technology enable 
+us to utilize data to understand systems at a much larger scale. Individual data points represent snapshots of a 
+systems' behavior, and as you collect more data on that system, you build up a dataset that you can use to analyze 
+and understand the system. Some examples of datasets include:
+
+    daily stock prices of a public company
+    GPS location data of Uber rides
+    all of the topics on Wikipedia.org
+
+Data science techniques can be applied to virtually any field. Some high profile examples of applied data science 
+include the Netflix prize, where algorithms were developed to predict which movies viewers would enjoy, and the 
+Heritage health prize, where algorithms were developed to discover which patients would be hospitalized more often.
+
+To work with data effectively, you need to learn how to program. Software products like Microsoft Excel allow 
+you to explore data, but don't scale to larger datasets, don't allow you tweak and run machine learning algorithms,
+and make it challenging to reproduce your work. We focus primarily on the Python programming language, which has
+emerged as one of the most powerful and popular tools for doing data science. Python is incredibly versatile and 
+data scientists and engineers use it to do everything from building complex web applications to analyzing large datasets.
+
+At Dataquest, we're strong believers in learning by doing. You'll work with real datasets and receive feedback 
+immediately. In this course, you'll learn the fundamentals of programming by writing and running Python code at
+each step of the way. In this mission, you'll learn the basics of Python, so we can dive into a dataset in the next mission.
