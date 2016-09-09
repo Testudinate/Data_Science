@@ -1,0 +1,20 @@
+3: Variables
+
+Variables are a fundamental building block of most programming languages. We use variables to store values
+that we want to use later. We first select a name for the variable and then assign the variable a value. We
+then can refer to that value using the variable name.
+
+For example, if we know we're going to be using the value 10 a lot, we can store the value 10 in a variable
+called b. Then whenever we want to refer to that value, we can use b instead of 10. To assign the value 10 
+to a new variable named b, you write the desired variable name, add an equals sign (=), and then write the 
+value you want that variable to store.
+
+The equals sign (=) is called the assignment operator since it's used to assign the value on the right to 
+the variable on the left. In Python, variable names can't have spaces or special characters like * or |.
+In general, you should use lower-case characters when naming variables. The one special character you can use is the underscore (_).
+
+In Python, the value assigned to a variable can be modified. You can assign a different value to an existing 
+variable and the variable will refer to the new value instead. To assign a new value to the variable b, 
+use the same assignment operator (=) along with the name of the variable and the new value you want assigned to it:
+
+After the last line of code, the variable b refers to the value 12.
