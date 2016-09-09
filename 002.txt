@@ -1,0 +1,14 @@
+2: Interface
+
+Each mission is broken up into steps. After you've completed a step, you can use the navigation bar 
+on the right to jump back to it. Most steps consist of an explanation of a concept, the instructions 
+for completing the exercise correctly, and a section to write and run code to complete the exercise. 
+Most code blocks contain existing sample code that demonstrates the idea discussed in that step. You 
+should write your code in the lines below the sample code.
+
+When you write code and click Check, we execute the code, and give you feedback on the code. You can
+write and run code as many times as you'd like until you get the right answer. If you're stuck, you
+can get a hint by clicking on Hint. If you want to see the correct answer and you've made 3 attempts, click Solution.
+
+We'll be coding using the Python programming language because it's friendly for beginners but still incredibly 
+powerful for working with data. We'll use the latest version of Python, also known as Python 3.
